@@ -101,7 +101,7 @@ Visualisation basée sur Star Wars: http://blog4coders.com/wp-content/uploads/20
 
 Le *modèle de boîte* (box-model) utilisé par les navigateurs est de type "content-box". Si on donne une largeur à un élément, cela ne concerne pas les marges intérieures et extérieures. Un élément auquel on donnerait une largeur de 500px, et des marges intérieures (padding) de 25px, aurait une largeur effective de 550px.
 
-Il est possible de modifier ce comportement avec la propriété `box-sizing`. Voir le chapitre **[CSS Layout](layout)** pour plus de détails.
+Il est possible de modifier ce comportement avec la propriété `box-sizing`. Voir le chapitre **[CSS Layout](layout)** pour plus de détails. :)
 
 
 ### Le border-collapsing
